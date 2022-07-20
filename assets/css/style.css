@@ -57,6 +57,7 @@ body {
   font-weight: normal;
   font-style: normal;
   color: #676769;
+  
 }
 
 * {
@@ -3069,7 +3070,7 @@ p.form-message.error.form-message.error {
   06 Customer Service css 
 ===========================*/
 .customer_services_area {
-  background: #fff url(../images/normal/service_bg.jpg) no-repeat center top;
+  background: #fff url(../images/normal/tela2.png) no-repeat center top;
   background-size: 100%;
 }
 
